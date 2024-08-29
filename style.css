@@ -74,3 +74,38 @@ button {
     font-weight: bold;
     margin-top: 8px;
 }
+
+.section-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.info-header {
+    padding: 32px;
+    font-size:36px;
+    color:#1F2937;
+    font-weight: 900;
+}
+
+.info-cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    gap: 48px;
+}
+
+.box {
+    height: 150px;
+    width: 150px;
+    border: 3px solid rgb(0, 116, 194);
+    border-radius: 16px;
+    margin-bottom: 8px;
+}
+
+.text {
+    font-size: 16px;
+    text-align: center;
+    color:rgb(87, 87, 87)
+}

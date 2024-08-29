@@ -109,3 +109,25 @@ button {
     text-align: center;
     color:rgb(87, 87, 87)
 }
+
+.section-3 {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+
+}
+
+.quote {
+    font-size: 36px;
+    color:#1F2937;
+    font-style: italic;
+    width: 825px;
+}
+
+.quote-ee {
+    width: 700px;
+    text-align: right;
+}

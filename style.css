@@ -49,7 +49,7 @@ a {
     display: flex;
     padding: 100px 0;
     justify-content: center;
-    gap: 32px;
+    gap: 48px;
 }
 
 .header-content-right,
@@ -62,14 +62,14 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    color:white;
+    color:#E5E7EB;
     background-color: rgb(121, 121, 121)
 }
 
 button {
     background-color: #3882F6;
     padding: 8px 32px;
-    color: white;
+    color: #F9FAF8;
     border-radius: 8px;
     font-weight: bold;
     margin-top: 8px;
@@ -123,7 +123,7 @@ button {
 
 .quote {
     font-size: 36px;
-    color:rgba(31, 41, 55, 0.596);
+    color:rgba(31, 41, 55, 0.705);
     font-style: italic;
     width: 825px;
     font-weight: lighter;
@@ -166,7 +166,7 @@ button {
 }
 
 .cta-content-right button {
-    border: 2px solid white;
+    border: 2px solid #F9FAF8;
 }
 
 .footer {

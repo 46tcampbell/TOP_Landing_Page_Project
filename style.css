@@ -31,7 +31,7 @@ ul {
 
 a,
 .hero-subtext {
-    color: #E5E7EB;
+    color: #e5e7ebe3;
     font-size: 18px;
 }
 
@@ -80,6 +80,7 @@ button {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    margin-bottom: 100px;
 }
 .info-header {
     padding: 32px;
@@ -122,12 +123,14 @@ button {
 
 .quote {
     font-size: 36px;
-    color:#1F2937;
+    color:rgba(31, 41, 55, 0.596);
     font-style: italic;
     width: 825px;
+    font-weight: lighter;
 }
 
 .quote-ee {
-    width: 700px;
+    width: 775px;
     text-align: right;
+    font-weight: bold;
 }

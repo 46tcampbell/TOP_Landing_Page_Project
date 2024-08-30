@@ -134,3 +134,37 @@ button {
     text-align: right;
     font-weight: bold;
 }
+
+.section-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0;
+}
+
+.cta-box {
+    background-color: #3882F6;
+    border-radius: 8px;
+}
+
+.cta-content {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 96px;
+    color: #F9FAF8;
+    gap: 132px;
+}
+
+.cta-main-text {
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.cta-subtext {
+    font-size: 18px;
+    color:rgba(249, 250, 248, 0.87)
+}
+
+.cta-content-right button {
+    border: 2px solid white;
+}
